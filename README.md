@@ -5,7 +5,7 @@
 Este é meu primeiro projeto em Python que calcula o Índice de Massa Corporal (IMC) e classifica o resultado.
 
 ## Como usar
-1. Clone o repositório: https://github.com/leonardohakim/imc_calculadora
+1. Clone o repositório: git clone https://github.com/leonardohakim/imc_calculadora.git
 
 2. Navegue até a pasta: imc_calculadora
 
